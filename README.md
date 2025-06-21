@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rqfirqfo
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning how to be myself
+how do i make a html?
 
 <!---
 rqfirqfo/rqfirqfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
